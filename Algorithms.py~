@@ -3,8 +3,6 @@ import numpy as np
 import hello as he
 
 
-# function definitions
-
 def permuteRecur(sTmp, flags, res, s):
     '''
 
